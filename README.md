@@ -29,3 +29,5 @@ We do not tolerate harassment of event participants in any form. GDG Minsk takes
 * Threats of harm, harassment
 * Anything that compromises people’s safety
 * Personal attacks
+
+**If you experience abuse, harassment, discrimination, or feel unsafe, let us know by leave a message on gdgminsk@gmail.com**
